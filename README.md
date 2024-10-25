@@ -1,4 +1,4 @@
-Fish Species Image Processing and Dataset Compression Project
+----Fish Species Image Processing and Dataset Compression Project-------
 This project was developed as an advanced image processing pipeline tailored for fish species dataset management, incorporating a range of image preprocessing, resizing, normalization, and compression techniques. The primary objective is to enhance the dataset's usability by optimizing image storage, allowing for faster processing in machine learning applications and minimizing storage requirements. This project presents an ideal tool for handling large datasets in machine learning contexts, offering a streamlined approach to dataset preparation, and ultimately aligns with the efficiency standards in data management required in industry settings.
 
 Project Overview
