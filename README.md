@@ -1,6 +1,6 @@
 Proje Adı: Balık Türlerini Tanıma ve Sınıflandırma (Fish Species Classification)
 Proje Açıklaması:
-Bu projede, bir veri seti üzerinde balık türlerini sınıflandırmak amacıyla derin öğrenme modelleri kullanılmıştır. Görüntüler öncelikle yeniden boyutlandırılıp normalleştirildikten sonra sıkıştırılmış .npz formatında kaydedilmiştir. Daha sonra bu veriler üzerinde bir Convolutional Neural Network (CNN) modeli eğitilmiştir. Bu README dosyasında, projenin adımları detaylandırılmaktadır.
+Bu projede, bir veri seti üzerinde balık türlerini sınıflandırmak amacıyla derin öğrenme modelleri kullanılmıştır. Görüntüler öncelikle yeniden boyutlandırılıp normalleştirildikten sonra sıkıştırılmış .npz formatında kaydedilmiştir. Daha sonra bu veriler üzerinde bir Artificial Neural Network (ANN) modeli eğitilmiştir. Bu README dosyasında, projenin adımları detaylandırılmaktadır.
 
 Adımlar:
 1. Veri Ön İşleme:
